@@ -8,7 +8,7 @@
 
 ### 历届负责人
 
-现负责人员：🧑‍💻徐金辉[^Profile^](https://github.com/Rocky77JHxu)  袁之皓[Aarpn Limu](https://github.com/AaronJoe224)
+现负责人员：🧑‍💻徐金辉[^Profile^](https://github.com/Rocky77JHxu)  袁之皓[Aaron Limu](https://github.com/AaronJoe224)
 
 ### 开源仓库
 
